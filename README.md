@@ -69,8 +69,6 @@ heroku run initdb -a [YOUR-APP-NAME]
 ```
 
 ## What do we have here?
-
-- A basket of kittens 🐱
 - Simple Flask **API**, powered with [**Flask-RESTful**](https://flask-restful.readthedocs.org/en/0.3.3/), [**SQLAlchemy**](http://www.sqlalchemy.org/) and [**PostgreSQL**](http://www.postgresql.org/)
 - **UI**, powered with [**React**](http://facebook.github.io/react/), [**Babel**](https://babeljs.io/), and [**Webpack**](http://webpack.github.io/)
 
